@@ -3,6 +3,6 @@
      int a=9;
      int b=8;
      int mul=b*a;
-     
+     System.out.println(mul);
    } 
 }
